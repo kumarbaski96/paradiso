@@ -1,0 +1,48 @@
+ body {
+            background: #f7f4ef;
+            font-family: Arial, sans-serif;
+        }
+
+        .booking-wrapper {
+            max-width: 850px;
+            margin: 45px auto;
+            padding: 20px;
+        }
+
+        .booking-card {
+            background: #fff;
+            border-radius: 16px;
+            padding: 30px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+        }
+
+        .booking-title {
+            color: #7b263a;
+            font-weight: 700;
+        }
+
+        .form-label {
+            font-weight: 600;
+        }
+
+        .form-control,
+        .form-select {
+            min-height: 45px;
+        }
+
+        textarea.form-control {
+            min-height: 110px;
+        }
+
+        .btn-book {
+            background: #7b263a;
+            color: #fff;
+            border: none;
+            padding: 13px 25px;
+            font-weight: 600;
+        }
+
+        .btn-book:hover {
+            background: #571927;
+            color: #fff;
+        }
