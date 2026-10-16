@@ -132,7 +132,7 @@ $zip   = trim($admin['pin_code'] ?? '');
     </div>
 </div>
 
-<a class="whatsapp-float" href="https://wa.me/919876543210?text=Hello%2C%20I%20would%20like%20to%20enquire%20about%20your%20marriage%20hall." target="_blank" rel="noopener" aria-label="Contact us on WhatsApp"><i class="bi bi-whatsapp"></i></a>
+<a class="whatsapp-float" href="https://wa.me/919065730624?text=Hello%2C%20I%20would%20like%20to%20enquire%20about%20your%20marriage%20hall." target="_blank" rel="noopener" aria-label="Contact us on WhatsApp"><i class="bi bi-whatsapp"></i></a>
 <a href="#home" class="back-top" id="backTop" aria-label="Back to top"><i class="bi bi-arrow-up"></i></a>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
