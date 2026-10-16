@@ -357,7 +357,7 @@ function h($value) {
             </p>
         </div>
 
-        <a href="index.php" class="btn btn-outline-secondary">
+        <a href="dashboard.php" class="btn btn-outline-secondary">
             <i class="bi bi-speedometer2"></i> Dashboard
         </a>
     </div>
